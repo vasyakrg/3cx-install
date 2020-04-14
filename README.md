@@ -2,7 +2,7 @@
 
 - скачать
 ```
-curl https://github.com/vasyakrg/3cx-install/install.sh -o install.sh
+curl https://raw.githubusercontent.com/vasyakrg/3cx-install/master/install.sh -o install.sh
 ```
 
 - запустить
