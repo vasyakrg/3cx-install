@@ -10,6 +10,6 @@ curl https://raw.githubusercontent.com/vasyakrg/3cx-install/master/install.sh -o
 sh ./install.sh
 ```
 
-### Видео, как я это делал, [тут](https://youtu.be/QHXiQI7APcE)
+### Видео, как я это делал, [тут](https://youtu.be/)
 ##### Автор
  - **Vassiliy Yegorov** - *Initial work* - [vasyakrg](https://github.com/vasyakrg)
